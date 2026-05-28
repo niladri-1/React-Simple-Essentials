@@ -1,6 +1,6 @@
 {
   "name": "react-simple-essentials",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A lightweight collection of essential React hooks for eliminating repetitive UI boilerplate.",
   "license": "MIT",
   "author": "NILADRI CHATTERJEE",
@@ -9,6 +9,14 @@
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niladri-1/React-Simple-Essentials.git"
+  },
+  "bugs": {
+    "url": "https://github.com/niladri-1/React-Simple-Essentials/issues"
+  },
+  "homepage": "https://github.com/niladri-1/React-Simple-Essentials#readme",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
